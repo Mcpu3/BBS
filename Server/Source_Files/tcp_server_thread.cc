@@ -15,7 +15,7 @@ int main() {
 	vector<Message> messages{
 		{
 			0ull,
-			"4402_岩本圭介",
+			"管理者",
 			"Af$d^VA3c^9HWyx*",
 			"BBSにようこそ\n括弧内の数値はID, この文字列は本文, \"--\" に続く文字列はユーザーです"
 		}

@@ -42,4 +42,4 @@ tcp_server_thread.o: Source_Files/tcp_server_thread.cc Header_Files/tcp_server.h
 
 .PHONY: clean
 clean:
-	$(RM) -f $(PROGRAM) *.o messages.json
+	$(RM) -f $(PROGRAM) $(OBJS) messages.json

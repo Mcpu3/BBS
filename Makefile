@@ -1,4 +1,4 @@
-MAKE = make
+MAKE := make
 
 .PHONY: all
 all: client server
